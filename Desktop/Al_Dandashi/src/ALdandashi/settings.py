@@ -55,7 +55,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'authen.urls'
+ROOT_URLCONF = 'ALdandashi.urls'
 
 TEMPLATES = [
     {
@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'authen.wsgi.application'
+WSGI_APPLICATION = 'ALdandashi.wsgi.application'
 
 
 # Database
